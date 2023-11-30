@@ -1,4 +1,4 @@
-![image](https://github.com/RufusMathew/Forbes-Millionaire-Dataset-Visualization/assets/149645197/5c304215-0d12-477b-afd6-68d4d2640374)# Forbes-Millionaire-Dataset-Visualization
+
 
 Overview
 
